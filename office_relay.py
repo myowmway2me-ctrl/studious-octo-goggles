@@ -7,8 +7,8 @@
 # ╚══════════════════════════════════════════════════════════════╝
 
 import os as _os
-BOT_TOKEN       = "38:AAG4GTi72wwbDveowSUY0GVDbMo8YBtecRY"
-ADMIN_IDS       = [6013007573]
+BOT_TOKEN       = "8965846336:AAHLR7JDW_g9HO2iVi0qv-bvuxQWXxgEC8k"
+ADMIN_IDS       = [8837925145]
 KEY_PREFIX      = "RELAY-"
 KEY_LENGTH      = 30
 RESYNC_INTERVAL = 600    # seconds (10 min)
